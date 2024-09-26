@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="932d40cf83f01210508ebfc6feaad3a6" label="IPAddressInfo" max_length="40" name="x_793388_iplookup_ipaddressinfo" type="collection">
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="IP address" max_length="40" name="ip_address" type="string"/>
+    </element>
+</database>
